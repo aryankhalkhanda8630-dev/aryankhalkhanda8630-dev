@@ -1,4 +1,5 @@
-## Hi there 👋
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankhalkhanda8630-dev&show_icons=true&theme=radical)
+
 
 <!--
 **aryankhalkhanda8630-dev/aryankhalkhanda8630-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
